@@ -1,2 +1,2 @@
 # java-hello-world
-Hello world app for Java.
+Hello world app for Java. Lorem ipsum.
